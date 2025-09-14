@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Users List</string>
+    <string name="error_no_internet">Tidak ada koneksi internet</string>
+    <string name="error_timeout">Koneksi timeout, silakan coba lagi</string>
+    <string name="error_server">Server error, coba beberapa saat lagi</string>
+    <string name="error_unknown">Terjadi kesalahan tidak diketahui</string>
+    <string name="empty_users">Tidak ada data pengguna</string>
+    <string name="retry">Coba Lagi</string>
+</resources>
